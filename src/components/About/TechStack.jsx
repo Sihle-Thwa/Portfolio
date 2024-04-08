@@ -25,34 +25,34 @@ function TechStack() {
             color: 'white'
         }}>
             <Col xs={4} md={2} className='tech-icons'>
-                <CgCPlusPlus />
+                <CgCPlusPlus size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <DiNodejsSmall />
+                <DiNodejsSmall size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <DiReact />
+                <DiReact size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <DiMongodb />
+                <DiMongodb size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <DiPython />
+                <DiPython size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <DiJava />
+                <DiJava size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiRedis />
+                <SiRedis size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiJavascript />
+                <SiJavascript size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiPostgresql />
+                <SiPostgresql size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiFirebase />
+                <SiFirebase size={35} />
             </Col>
 
         </Row>

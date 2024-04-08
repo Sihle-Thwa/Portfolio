@@ -18,22 +18,22 @@ function ToolStack() {
             color: 'white'
         }}>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiVisualstudiocode />
+                <SiVisualstudiocode size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiPostman />
+                <SiPostman size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiSlack />
+                <SiSlack size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiVercel />
+                <SiVercel size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiDiscord />
+                <SiDiscord size={35} />
             </Col>
             <Col xs={4} md={2} className='tech-icons'>
-                <SiFigma />
+                <SiFigma size={35} />
             </Col>
 
 
