@@ -8,7 +8,7 @@ import { useState, useEffect } from 'react';
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
 import Preloader from '../src/components/Pre.jsx';
-import { Analytics } from "@vercel/analytics/react"
+
 
 
 function App() {
@@ -30,7 +30,6 @@ function App() {
         <NavBar />
         <ScrollToTop />
         <Routes>
-        <Analytics />
           <Route path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
           <Route path='/certificate' element={<Certificate />} />
